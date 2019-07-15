@@ -1,0 +1,1 @@
+Ceci est un document texte pour créer un sha256.
